@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Andreeastroem\Documents\Visual Studio 2017\Projects\First OpenGL solution\GLFW\src\context.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Andreeastroem\Documents\Visual Studio 2017\Projects\First OpenGL solution\GLFW\src\init.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Andreeastroem\Documents\Visual Studio 2017\Projects\First OpenGL solution\GLFW\src\input.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Andreeastroem\Documents\Visual Studio 2017\Projects\First OpenGL solution\GLFW\src\monitor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Andreeastroem\Documents\Visual Studio 2017\Projects\First OpenGL solution\GLFW\src\vulkan.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Andreeastroem\Documents\Visual Studio 2017\Projects\First OpenGL solution\GLFW\src\window.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Andreeastroem\Documents\Visual Studio 2017\Projects\First OpenGL solution\GLFW\src\win32_init.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Andreeastroem\Documents\Visual Studio 2017\Projects\First OpenGL solution\GLFW\src\win32_joystick.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Andreeastroem\Documents\Visual Studio 2017\Projects\First OpenGL solution\GLFW\src\win32_monitor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Andreeastroem\Documents\Visual Studio 2017\Projects\First OpenGL solution\GLFW\src\win32_time.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Andreeastroem\Documents\Visual Studio 2017\Projects\First OpenGL solution\GLFW\src\win32_tls.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Andreeastroem\Documents\Visual Studio 2017\Projects\First OpenGL solution\GLFW\src\win32_window.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Andreeastroem\Documents\Visual Studio 2017\Projects\First OpenGL solution\GLFW\src\wgl_context.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Andreeastroem\Documents\Visual Studio 2017\Projects\First OpenGL solution\GLFW\src\egl_context.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Andreeastroem\Documents\Visual Studio 2017\Projects\First OpenGL solution\GLFW\src\internal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Andreeastroem\Documents\Visual Studio 2017\Projects\First OpenGL solution\GLFW\build\src\glfw_config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Andreeastroem\Documents\Visual Studio 2017\Projects\First OpenGL solution\GLFW\include\GLFW\glfw3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Andreeastroem\Documents\Visual Studio 2017\Projects\First OpenGL solution\GLFW\include\GLFW\glfw3native.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Andreeastroem\Documents\Visual Studio 2017\Projects\First OpenGL solution\GLFW\src\win32_platform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Andreeastroem\Documents\Visual Studio 2017\Projects\First OpenGL solution\GLFW\src\win32_joystick.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Andreeastroem\Documents\Visual Studio 2017\Projects\First OpenGL solution\GLFW\src\wgl_context.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Andreeastroem\Documents\Visual Studio 2017\Projects\First OpenGL solution\GLFW\src\egl_context.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Andreeastroem\Documents\Visual Studio 2017\Projects\First OpenGL solution\GLFW\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{7B44D89B-8C81-3BCF-8983-6EEE0A3CD3AA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{B6BC46C3-6CD6-3900-9739-78FCB090DF48}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

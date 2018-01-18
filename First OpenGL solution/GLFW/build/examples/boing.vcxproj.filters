@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Andreeastroem\Documents\Visual Studio 2017\Projects\First OpenGL solution\GLFW\examples\boing.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Andreeastroem\Documents\Visual Studio 2017\Projects\First OpenGL solution\GLFW\deps\glad.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Andreeastroem\Documents\Visual Studio 2017\Projects\First OpenGL solution\GLFW\deps\glad\glad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Andreeastroem\Documents\Visual Studio 2017\Projects\First OpenGL solution\GLFW\examples\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\Andreeastroem\Documents\Visual Studio 2017\Projects\First OpenGL solution\GLFW\examples\glfw.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{7B44D89B-8C81-3BCF-8983-6EEE0A3CD3AA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{B6BC46C3-6CD6-3900-9739-78FCB090DF48}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
